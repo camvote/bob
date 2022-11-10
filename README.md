@@ -1,6 +1,6 @@
 # BOB: a Basic On line Ballot box
 
-This repository tracks the live code of https://camb.vote
+This repository tracks the live code of https://camvote.org
 
 The BOB system is designed to be an electronic version of a ballot box for Single Transferable Voting elections.
 
@@ -10,7 +10,7 @@ The BOB system is intended to be used in a context where people will verify that
 
 We hope this software might be useful to you, but as the GPL says, this code doesn't come with any warranties.
 
-This software is primarily being maintained for use within the Cambridge Online Voting Consortium's Student Election System: https://camvote.org
+This software is primarily being maintained for use within the Cambridge Online Voting System: https://camvote.org
 
 Over 333,333 votes have been cast without challenge in over 2,709 ballots created by 211 organisations around Cambridge University, using BOB, as of January 2021. The archive of these were previously available on a CUSU website, but these have since been deleted.
 
