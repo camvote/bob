@@ -10,9 +10,11 @@ The BOB system is intended to be used in a context where people will verify that
 
 We hope this software might be useful to you, but as the GPL says, this code doesn't come with any warranties.
 
-This software is primarily being maintained for use within the CUSU online voting system - https://www.cusu.cam.ac.uk/elections/system/ .
+This software is primarily being maintained for use within the Cambridge Online Voting Consortium's Student Election System: https://camvote.org
 
-Over 333,333 votes have been cast without challenge in over 2,709 ballots created by 211 organisations around Cambridge University, using BOB, as of January 2021. The archive of these can be seen on the CUSU voting server for those with a University login.
+Over 333,333 votes have been cast without challenge in over 2,709 ballots created by 211 organisations around Cambridge University, using BOB, as of January 2021. The archive of these were previously available on a CUSU website, but these have since been deleted.
+
+Current usage is - again - available at https://camvote.org .
 
 ## Warnings about unavoidable BOB voting process risks
 
