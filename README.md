@@ -1,6 +1,6 @@
 # BOB: a Basic On line Ballot box
 
-This repository tracks the live code of https://camb.vote
+This repository tracks the live code of https://camvote.org
 
 The BOB system is designed to be an electronic version of a ballot box for Single Transferable Voting elections.
 
